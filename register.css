@@ -1,0 +1,47 @@
+.container{
+    padding:0px;
+    margin-left:500px;
+    position:absolute;
+    left: 50px;
+    }
+    body{
+        background:url('https://img.freepik.com/free-photo/smiley-face-ball-background-sweet-retro-vintage-color_1421-379.jpg');
+    background-size:cover; 
+    background-position:center;
+    }
+    h1{
+      text-align: center;
+    }
+    .firstname{
+      margin:10px;
+    }
+    .lastname{
+      margin:10px;
+    }
+    .age{
+      margin:10px;
+    }
+    .gender{
+      margin:10px;
+    }
+    .language{
+      margin:10px;
+    }
+    .btnregister{
+      height:40px;
+      width:90px;
+      color:white;
+      background-color:teal;
+      border:none;
+      border-radius:10px;
+      font-weight:bold;
+    }
+    .btnsignin{
+      height:40px;
+      width:90px;
+      color:white;
+      background-color:teal;
+      border:none;
+      border-radius:10px;
+      font-weight:bold;
+    }

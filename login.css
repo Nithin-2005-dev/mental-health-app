@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  header{
+    width:100%;
+    text-align: center;
+    font-weight: 900;
+    color: #aeacac;
+  }
+  .button-container{
+    height:100px;
+    width:100%;
+    display:flex;
+    
+  }
+  .btn1{
+    color:white;
+    background-color: rgba(32, 131, 130, 0.573);
+    border:none;
+    border-radius: 10px;
+    height:50px;
+    width:90px;
+    font-size:medium;
+    margin-right:20px;  
+    cursor: pointer;
+  }
+  .btn2{
+    color:white;
+    background-color: rgba(32, 131, 130, 0.573);
+    border:none;
+    border-radius: 10px;
+    height:50px;
+    width:90px;
+    cursor: pointer;
+  }
+  .loginBox{
+    /* display:flex; */
+    /* justify-content: center; */
+    margin-top:30px;
+  }
+  body{
+    /* display:flex; */
+    /* justify-content: center; */
+    /* align-items:center; */
+    /* min-height:100vh; */
+    background:url('https://img.freepik.com/free-photo/smiley-face-ball-background-sweet-retro-vintage-color_1421-379.jpg');
+    background-size:cover; 
+    background-position:center;
+  
+  }
+  a{
+    color:rgb(178, 196, 253);
+  text-decoration :none;
+  text-transform: none;
+  }
+  input{
+    display:block;
+    margin: 20px;
+    height: 30px;
+    width: 300px;
+    margin-left: 0px;
+  }
+  .container{
+    padding-left:500px ;
+  }
+  .btn1:hover{
+    background-color: rgba(23, 103, 102, 0.573);
+  }
+  .btn2:hover{
+    background-color: rgba(23, 103, 102, 0.573);
+  }
